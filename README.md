@@ -9,3 +9,12 @@ Users can perform multiple actions, and each action is recorded until the histor
 When the user clicks the logout button, they are redirected to the login page and the JWT token in the cookies is deleted.
 
 If the user enters an incorrect URL, they will be directed to a "not found" page that displays an image and a button to redirect them to the home page.
+
+
+Login page:
+
+![image](https://user-images.githubusercontent.com/123394631/224342546-39f5d7af-b03c-429d-86c5-56f57f26c562.png)
+
+Calculator page:
+
+![image](https://user-images.githubusercontent.com/123394631/224341590-8973410a-9450-47d6-8449-153afb45982b.png)
