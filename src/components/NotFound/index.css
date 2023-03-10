@@ -9,3 +9,6 @@
 .notfoundButton {
   width: 200px;
 }
+.notfoundButton:hover {
+  background-color: grey;
+}

@@ -105,7 +105,7 @@ class LoginForm extends Component {
           alt="website login"
         />
         <form className="form-container" onSubmit={this.submitForm}>
-          <h1>CALCULATOR</h1>
+          <h1 className="main-head">CALCULATOR</h1>
           <div className="input-container">{this.renderUsernameField()}</div>
           <div className="input-container">{this.renderPasswordField()}</div>
           <button type="submit" className="login-button">

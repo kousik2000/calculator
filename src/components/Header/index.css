@@ -1,5 +1,5 @@
 .navbar {
-  background-color: #4a536b;
+  background-color: #5a5a5a;
   height: 80px;
   width: 100%;
   display: flex;
@@ -18,8 +18,8 @@
   color: white;
 }
 .logout {
-  background-color: #ff9a8d;
-  width: 80px;
+  background-color: #d3d3d3;
+  width: 100px;
 }
 .nav-link-1 {
   text-decoration: none;
