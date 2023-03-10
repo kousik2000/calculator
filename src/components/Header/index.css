@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #4a536b;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px 5px 10px;
+  align-items: center;
+}
+.navbar-logo {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  font-family: Roboto;
+}
+.nav-link {
+  font-size: 20px;
+  color: white;
+}
+.logout {
+  background-color: #ff9a8d;
+  width: 80px;
+}
+.nav-link-1 {
+  text-decoration: none;
+}
