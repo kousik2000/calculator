@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 Domain: https://calculator-kousikramachandruni-gmailcom.vercel.app/login
 
