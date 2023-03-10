@@ -11,10 +11,15 @@ When the user clicks the logout button, they are redirected to the login page an
 If the user enters an incorrect URL, they will be directed to a "not found" page that displays an image and a button to redirect them to the home page.
 
 
-Login page:
+
+Login Router:
 
 ![image](https://user-images.githubusercontent.com/123394631/224342546-39f5d7af-b03c-429d-86c5-56f57f26c562.png)
 
-Calculator page:
+Calculator Router:
 
 ![image](https://user-images.githubusercontent.com/123394631/224341590-8973410a-9450-47d6-8449-153afb45982b.png)
+
+Notfound Router:
+
+![image](https://user-images.githubusercontent.com/123394631/224343629-22cf22cd-54b8-4ea0-b19d-669b126f7c2d.png)
